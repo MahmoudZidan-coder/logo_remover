@@ -1,0 +1,7 @@
+path: 'D:\Edu\ITI\efg task\lets\dataset'
+train: 'train/images'
+val: 'val/images'
+test: 'test/images'
+
+nc: 1
+names: ["logo"]
